@@ -1,4 +1,4 @@
-# BPM_Calendar
+# BPM Calendar
 
 This Jupyter Notebook serves the purpose of visualizing the working days and overall workload for resources of a log register.
 
@@ -15,3 +15,5 @@ jupyter notebook CountDays.ipynb
 ```
 and once the browser shows the notebook, on the Kernel tab, click it and excecute "Restart & Run All" and voilá,
 the full notebook will be executed and the data will be displayed.
+
+Soon will be integrated to [Simod](https://github.com/AndreRdz7/Simod) for research purposes.
