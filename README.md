@@ -1,10 +1,11 @@
 # BPM Calendar
 
-This Jupyter Notebook serves the purpose of visualizing the working days and overall workload for resources of a log register.
+This Jupyter Notebook serves the purpose of extracting the working days and overall workload for resources of a log register.
 
-The log is provided in the repo, but it can be obtained via [BIMP](http://bimp.cs.ut.ee/) when provided a .bpmn file (you can
-create one in [Signavio](https://www.signavio.com/) if you are an academic). Just replace it in the file directory and you are
-ready to use your own dataset.
+Demo logs are provided, 'default.csv' is the standard 5-9 M-F schedule, while 'custom.csv' reduces work hours and days of work.
+
+Both logs are made with [Scylla](https://github.com/bptlab/scylla) and converted to csv with parsers (MXML to XES then to CSV).
+Scylla comes with .bpmn files, however, if needed, you can create one in [Signavio](https://www.signavio.com/) if you are an academic.
 
 In order to run the Notebook you only need an [Anaconda](https://www.anaconda.com/distribution/) installation and [Pip](https://pypi.org/project/pip/) for
 package management (all libraries used in here are included in the Anaconda installation) only if needed.
