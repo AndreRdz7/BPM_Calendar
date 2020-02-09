@@ -1,107 +1,1099 @@
 CaseID,Activity,EventType,Resource,Timestamp
-1,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:00:00-05:00
-1,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:06:32-05:00
-1,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-02T04:29:52-05:00
-1,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-02T06:29:52-05:00
-1,Antrag prüfen,start,Manager_#0,2017-10-02T06:29:52-05:00
-1,Antrag prüfen,complete,Manager_#0,2017-10-02T07:29:52-05:00
-1,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-06T04:29:52-05:00
-1,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-06T04:31:43-05:00
-1,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-06T04:39:15-05:00
-1,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-06T06:39:15-05:00
-1,Antrag prüfen,start,Manager_#0,2017-10-09T07:00:00-05:00
-1,Antrag prüfen,complete,Manager_#0,2017-10-09T08:00:00-05:00
-1,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-12T04:09:05-05:00
-1,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-12T04:13:37-05:00
-1,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-12T05:01:11-05:00
-1,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-12T07:01:11-05:00
-1,Antrag prüfen,start,Manager_#0,2017-10-16T04:00:00-05:00
-1,Antrag prüfen,complete,Manager_#0,2017-10-16T05:00:00-05:00
-2,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:06:32-05:00
-2,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:11:35-05:00
-2,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-02T06:29:52-05:00
-2,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-03T03:29:52-05:00
-2,Antrag prüfen,start,Manager_#0,2017-10-03T03:29:52-05:00
-2,Antrag prüfen,complete,Manager_#0,2017-10-03T04:29:52-05:00
-2,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-06T04:31:43-05:00
-2,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-06T04:39:15-05:00
-2,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-06T06:39:15-05:00
-2,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-09T03:39:15-05:00
-2,Antrag prüfen,start,Manager_#0,2017-10-09T08:00:00-05:00
-2,Antrag prüfen,complete,Manager_#0,2017-10-09T09:00:00-05:00
-2,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-12T04:13:37-05:00
-2,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-12T05:01:11-05:00
-2,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T03:00:00-05:00
-2,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T03:21:49-05:00
-2,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-16T03:21:49-05:00
-2,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-16T05:21:49-05:00
-2,Antrag prüfen,start,Manager_#0,2017-10-16T06:00:00-05:00
-2,Antrag prüfen,complete,Manager_#0,2017-10-16T07:00:00-05:00
-3,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:11:35-05:00
-3,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:25:30-05:00
-3,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-03T03:29:52-05:00
-3,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-03T05:29:52-05:00
-3,Antrag prüfen,start,Manager_#0,2017-10-03T05:29:52-05:00
-3,Antrag prüfen,complete,Manager_#0,2017-10-03T06:29:52-05:00
-4,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:25:30-05:00
-4,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:37:37-05:00
-4,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-03T05:29:52-05:00
-4,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-03T07:29:52-05:00
-4,Antrag prüfen,start,Manager_#0,2017-10-03T07:29:52-05:00
-4,Antrag prüfen,complete,Manager_#0,2017-10-03T08:29:52-05:00
-5,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:37:37-05:00
-5,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:47:26-05:00
-5,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-03T07:29:52-05:00
-5,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-04T04:29:52-05:00
-5,Antrag prüfen,start,Manager_#0,2017-10-04T04:29:52-05:00
-5,Antrag prüfen,complete,Manager_#0,2017-10-04T05:29:52-05:00
-6,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:47:26-05:00
-6,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:56:25-05:00
-6,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-04T04:29:52-05:00
-6,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-04T06:29:52-05:00
-6,Antrag prüfen,start,Manager_#0,2017-10-04T06:29:52-05:00
-6,Antrag prüfen,complete,Manager_#0,2017-10-04T07:29:52-05:00
-7,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:56:25-05:00
-7,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T04:03:06-05:00
-7,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-04T06:29:52-05:00
-7,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-05T03:29:52-05:00
-7,Antrag prüfen,start,Manager_#0,2017-10-09T03:00:00-05:00
-7,Antrag prüfen,complete,Manager_#0,2017-10-09T04:00:00-05:00
-7,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-11T04:00:55-05:00
-7,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-11T04:25:21-05:00
-7,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T04:25:47-05:00
-7,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T04:34:46-05:00
-7,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-13T04:34:46-05:00
-7,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-13T06:34:46-05:00
-7,Antrag prüfen,start,Manager_#0,2017-10-16T05:00:00-05:00
-7,Antrag prüfen,complete,Manager_#0,2017-10-16T06:00:00-05:00
-7,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-18T06:00:26-05:00
-7,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-18T06:02:26-05:00
-7,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-18T06:02:26-05:00
-7,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-19T03:02:26-05:00
-7,Antrag prüfen,start,Manager_#0,2017-10-23T03:00:00-05:00
-7,Antrag prüfen,complete,Manager_#0,2017-10-23T04:00:00-05:00
-8,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T04:03:06-05:00
-8,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T04:16:51-05:00
-8,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-05T03:29:52-05:00
-8,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-05T05:29:52-05:00
-8,Antrag prüfen,start,Manager_#0,2017-10-09T04:00:00-05:00
-8,Antrag prüfen,complete,Manager_#0,2017-10-09T05:00:00-05:00
-9,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T04:16:51-05:00
-9,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T04:24:55-05:00
-9,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-05T05:29:52-05:00
-9,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-05T07:29:52-05:00
-9,Antrag prüfen,start,Manager_#0,2017-10-09T05:00:00-05:00
-9,Antrag prüfen,complete,Manager_#0,2017-10-09T06:00:00-05:00
-10,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T04:24:55-05:00
-10,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T04:29:52-05:00
-10,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-05T07:29:52-05:00
-10,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-06T04:29:52-05:00
-10,Antrag prüfen,start,Manager_#0,2017-10-09T06:00:00-05:00
-10,Antrag prüfen,complete,Manager_#0,2017-10-09T07:00:00-05:00
-10,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-11T07:00:48-05:00
-10,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-11T07:09:05-05:00
-10,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-11T07:09:05-05:00
-10,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-12T04:09:05-05:00
-10,Antrag prüfen,start,Manager_#0,2017-10-16T03:00:00-05:00
-10,Antrag prüfen,complete,Manager_#0,2017-10-16T04:00:00-05:00
+1,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:00:00
+1,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:09:34
+1,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-03T06:28:50
+1,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-03T08:28:50
+1,Antrag prüfen,start,Manager_#0,2017-10-03T08:28:50
+1,Antrag prüfen,complete,Manager_#0,2017-10-03T09:28:50
+2,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:09:34
+2,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:21:56
+2,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-03T08:28:50
+2,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-03T10:28:50
+2,Antrag prüfen,start,Manager_#0,2017-10-03T10:28:50
+2,Antrag prüfen,complete,Manager_#0,2017-10-04T03:28:50
+3,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:21:56
+3,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:47:50
+3,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-19T05:25:10
+3,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-19T05:25:29
+3,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-06T05:32:48
+3,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-06T07:32:48
+3,Antrag prüfen,start,Manager_#0,2017-11-06T07:32:48
+3,Antrag prüfen,complete,Manager_#0,2017-11-06T08:32:48
+4,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:47:50
+4,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T03:52:05
+4,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-03T10:44:41
+4,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-04T04:44:41
+4,Antrag prüfen,start,Manager_#0,2017-10-04T04:44:41
+4,Antrag prüfen,complete,Manager_#0,2017-10-04T05:44:41
+5,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T03:52:05
+5,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T04:32:23
+5,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-19T05:25:29
+5,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-19T05:29:45
+5,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-06T07:32:48
+5,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-06T09:32:48
+5,Antrag prüfen,start,Manager_#0,2017-11-06T09:32:48
+5,Antrag prüfen,complete,Manager_#0,2017-11-07T02:32:48
+5,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-15T09:27:56
+5,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-15T09:47:28
+5,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-22T08:44:16
+5,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-23T02:44:16
+5,Antrag prüfen,start,Manager_#0,2017-11-23T02:44:16
+5,Antrag prüfen,complete,Manager_#0,2017-11-23T03:44:16
+5,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-29T07:54:13
+5,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-29T07:58:47
+5,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-01T05:22:01
+5,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-01T07:22:01
+5,Antrag prüfen,start,Manager_#0,2017-12-01T07:22:01
+5,Antrag prüfen,complete,Manager_#0,2017-12-01T08:22:01
+6,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T04:32:23
+6,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T04:34:13
+6,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-04T05:11:25
+6,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-04T07:11:25
+6,Antrag prüfen,start,Manager_#0,2017-10-04T07:11:25
+6,Antrag prüfen,complete,Manager_#0,2017-10-04T08:11:25
+6,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-23T06:22:48
+6,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-23T06:32:06
+6,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-08T04:27:54
+6,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-08T06:27:54
+6,Antrag prüfen,start,Manager_#0,2017-11-08T06:27:54
+6,Antrag prüfen,complete,Manager_#0,2017-11-08T07:27:54
+7,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T04:34:13
+7,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T04:45:47
+7,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-04T07:11:25
+7,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-04T09:11:25
+7,Antrag prüfen,start,Manager_#0,2017-10-04T09:11:25
+7,Antrag prüfen,complete,Manager_#0,2017-10-04T10:11:25
+8,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T04:45:47
+8,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T04:53:04
+8,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-04T09:11:25
+8,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-05T03:11:25
+8,Antrag prüfen,start,Manager_#0,2017-10-05T03:11:25
+8,Antrag prüfen,complete,Manager_#0,2017-10-05T04:11:25
+8,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-23T06:32:06
+8,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-23T06:48:42
+8,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-08T06:27:54
+8,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-08T08:27:54
+8,Antrag prüfen,start,Manager_#0,2017-11-08T08:27:54
+8,Antrag prüfen,complete,Manager_#0,2017-11-08T09:27:54
+9,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T04:53:04
+9,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T05:30:55
+9,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-19T09:29:45
+9,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-19T10:43:02
+9,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-08T04:11:18
+9,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-08T04:12:40
+9,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-15T05:07:58
+9,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-15T07:07:58
+9,Antrag prüfen,start,Manager_#0,2017-11-15T07:07:58
+9,Antrag prüfen,complete,Manager_#0,2017-11-15T08:07:58
+9,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-23T09:38:34
+9,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-24T02:03:16
+9,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-29T08:22:09
+9,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-29T08:30:34
+9,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-01T09:22:01
+9,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-04T03:22:01
+9,Antrag prüfen,start,Manager_#0,2017-12-04T03:22:01
+9,Antrag prüfen,complete,Manager_#0,2017-12-04T04:22:01
+10,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T05:30:55
+10,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T05:41:50
+10,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-05T03:23:16
+10,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-05T05:23:16
+10,Antrag prüfen,start,Manager_#0,2017-10-05T05:23:16
+10,Antrag prüfen,complete,Manager_#0,2017-10-05T06:23:16
+11,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T05:41:50
+11,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T05:46:19
+11,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-05T05:23:16
+11,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-05T07:23:16
+11,Antrag prüfen,start,Manager_#0,2017-10-05T07:23:16
+11,Antrag prüfen,complete,Manager_#0,2017-10-05T08:23:16
+11,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-23T06:48:42
+11,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-23T06:51:17
+11,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-08T08:27:54
+11,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-09T02:27:54
+11,Antrag prüfen,start,Manager_#0,2017-11-09T02:27:54
+11,Antrag prüfen,complete,Manager_#0,2017-11-09T03:27:54
+11,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-20T08:42:48
+11,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-20T08:48:08
+11,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-24T03:08:25
+11,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-24T05:08:25
+11,Antrag prüfen,start,Manager_#0,2017-11-24T05:08:25
+11,Antrag prüfen,complete,Manager_#0,2017-11-24T06:08:25
+12,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T05:46:19
+12,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T06:07:53
+12,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-05T07:23:19
+12,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-05T09:23:19
+12,Antrag prüfen,start,Manager_#0,2017-10-05T09:23:19
+12,Antrag prüfen,complete,Manager_#0,2017-10-05T10:23:19
+13,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T06:07:53
+13,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T06:30:57
+13,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-05T09:36:51
+13,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-06T03:36:51
+13,Antrag prüfen,start,Manager_#0,2017-10-06T03:36:51
+13,Antrag prüfen,complete,Manager_#0,2017-10-06T04:36:51
+14,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T06:30:57
+14,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T06:45:53
+14,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-06T03:36:51
+14,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-06T05:36:51
+14,Antrag prüfen,start,Manager_#0,2017-10-06T05:36:51
+14,Antrag prüfen,complete,Manager_#0,2017-10-06T06:36:51
+14,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-23T06:51:17
+14,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-23T06:56:22
+14,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-09T02:27:54
+14,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-09T04:27:54
+14,Antrag prüfen,start,Manager_#0,2017-11-09T04:27:54
+14,Antrag prüfen,complete,Manager_#0,2017-11-09T05:27:54
+14,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-20T08:48:08
+14,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-20T09:02:25
+14,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-24T05:08:25
+14,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-24T07:08:25
+14,Antrag prüfen,start,Manager_#0,2017-11-24T07:08:25
+14,Antrag prüfen,complete,Manager_#0,2017-11-24T08:08:25
+15,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T06:45:53
+15,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T06:46:29
+15,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-06T05:36:51
+15,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-06T07:36:51
+15,Antrag prüfen,start,Manager_#0,2017-10-06T07:36:51
+15,Antrag prüfen,complete,Manager_#0,2017-10-06T08:36:51
+16,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T06:46:29
+16,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:03:13
+16,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-06T07:41:19
+16,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-06T09:41:19
+16,Antrag prüfen,start,Manager_#0,2017-10-06T09:41:19
+16,Antrag prüfen,complete,Manager_#0,2017-10-06T10:41:19
+17,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:03:13
+17,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:17:51
+17,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-06T09:41:19
+17,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-09T03:41:19
+17,Antrag prüfen,start,Manager_#0,2017-10-09T03:41:19
+17,Antrag prüfen,complete,Manager_#0,2017-10-09T04:41:19
+18,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:17:51
+18,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:22:42
+18,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-09T03:41:19
+18,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-09T05:41:19
+18,Antrag prüfen,start,Manager_#0,2017-10-09T05:41:19
+18,Antrag prüfen,complete,Manager_#0,2017-10-09T06:41:19
+18,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-24T04:56:22
+18,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-24T05:17:35
+18,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-09T04:27:54
+18,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-09T06:27:54
+18,Antrag prüfen,start,Manager_#0,2017-11-09T06:27:54
+18,Antrag prüfen,complete,Manager_#0,2017-11-09T07:27:54
+19,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:22:42
+19,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:24:25
+19,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-09T05:41:19
+19,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-09T07:41:19
+19,Antrag prüfen,start,Manager_#0,2017-10-09T07:41:19
+19,Antrag prüfen,complete,Manager_#0,2017-10-09T08:41:19
+20,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:24:25
+20,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:27:09
+20,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-09T07:41:19
+20,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-09T09:41:19
+20,Antrag prüfen,start,Manager_#0,2017-10-09T09:41:19
+20,Antrag prüfen,complete,Manager_#0,2017-10-09T10:41:19
+21,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:27:09
+21,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:28:03
+21,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-09T09:41:19
+21,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-10T03:41:19
+21,Antrag prüfen,start,Manager_#0,2017-10-10T03:41:19
+21,Antrag prüfen,complete,Manager_#0,2017-10-10T04:41:19
+21,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-24T09:18:05
+21,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-24T09:23:52
+21,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-09T08:27:54
+21,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-10T02:27:54
+21,Antrag prüfen,start,Manager_#0,2017-11-10T02:27:54
+21,Antrag prüfen,complete,Manager_#0,2017-11-10T03:27:54
+21,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-20T09:02:25
+21,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-20T09:07:42
+21,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-24T07:08:25
+21,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-24T09:08:25
+21,Antrag prüfen,start,Manager_#0,2017-11-24T09:08:25
+21,Antrag prüfen,complete,Manager_#0,2017-11-27T02:08:25
+21,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-30T08:41:04
+21,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-30T09:08:41
+21,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-04T08:37:28
+21,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-04T08:45:52
+21,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-05T03:14:46
+21,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-05T05:14:46
+21,Antrag prüfen,start,Manager_#0,2017-12-05T05:14:46
+21,Antrag prüfen,complete,Manager_#0,2017-12-05T06:14:46
+21,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-07T07:27:27
+21,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-07T07:32:30
+21,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-07T07:32:30
+21,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-07T09:32:30
+21,Antrag prüfen,start,Manager_#0,2017-12-07T09:32:30
+21,Antrag prüfen,complete,Manager_#0,2017-12-08T02:32:30
+22,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:28:03
+22,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:37:54
+22,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-10T04:14:32
+22,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-10T06:14:32
+22,Antrag prüfen,start,Manager_#0,2017-10-10T06:14:32
+22,Antrag prüfen,complete,Manager_#0,2017-10-10T07:14:32
+22,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-25T03:23:52
+22,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-25T03:25:20
+22,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-10T02:49:31
+22,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-10T04:49:31
+22,Antrag prüfen,start,Manager_#0,2017-11-10T04:49:31
+22,Antrag prüfen,complete,Manager_#0,2017-11-10T05:49:31
+22,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-20T09:07:42
+22,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-21T02:03:19
+22,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-27T09:21:18
+22,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-27T09:24:34
+22,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-30T02:41:04
+22,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-30T04:41:04
+22,Antrag prüfen,start,Manager_#0,2017-11-30T04:41:04
+22,Antrag prüfen,complete,Manager_#0,2017-11-30T05:41:04
+22,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-04T08:06:54
+22,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-04T08:37:28
+22,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-07T02:53:39
+22,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-07T03:26:43
+22,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-11T02:00:00
+22,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-11T02:06:45
+22,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-11T02:46:35
+22,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-11T04:46:35
+22,Antrag prüfen,start,Manager_#0,2017-12-11T04:46:35
+22,Antrag prüfen,complete,Manager_#0,2017-12-11T05:46:35
+23,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:37:54
+23,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:40:39
+23,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-10T06:14:32
+23,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-10T08:14:32
+23,Antrag prüfen,start,Manager_#0,2017-10-10T08:14:32
+23,Antrag prüfen,complete,Manager_#0,2017-10-10T09:14:32
+23,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-25T03:25:20
+23,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-25T03:42:46
+23,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-10T04:49:31
+23,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-10T06:49:31
+23,Antrag prüfen,start,Manager_#0,2017-11-10T06:49:31
+23,Antrag prüfen,complete,Manager_#0,2017-11-10T07:49:31
+23,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-21T02:09:21
+23,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-21T02:22:25
+23,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-27T03:08:25
+23,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-27T05:08:25
+23,Antrag prüfen,start,Manager_#0,2017-11-27T05:08:25
+23,Antrag prüfen,complete,Manager_#0,2017-11-27T06:08:25
+23,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-30T09:08:41
+23,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-30T09:22:01
+23,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-04T05:27:29
+23,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-04T07:27:29
+23,Antrag prüfen,start,Manager_#0,2017-12-04T07:27:29
+23,Antrag prüfen,complete,Manager_#0,2017-12-04T08:27:29
+23,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-06T08:35:01
+23,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-06T08:53:39
+23,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-07T03:26:43
+23,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-07T05:26:43
+23,Antrag prüfen,start,Manager_#0,2017-12-07T05:26:43
+23,Antrag prüfen,complete,Manager_#0,2017-12-07T06:26:43
+24,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:40:39
+24,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:48:30
+24,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-10T08:14:32
+24,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-10T10:14:32
+24,Antrag prüfen,start,Manager_#0,2017-10-10T10:14:32
+24,Antrag prüfen,complete,Manager_#0,2017-10-11T03:14:32
+24,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-25T03:42:46
+24,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-25T04:11:22
+24,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T07:43:55
+24,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T07:46:38
+24,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-16T08:42:48
+24,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-17T02:42:48
+24,Antrag prüfen,start,Manager_#0,2017-11-17T02:42:48
+24,Antrag prüfen,complete,Manager_#0,2017-11-17T03:42:48
+25,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:48:30
+25,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T07:55:53
+25,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-10T10:14:32
+25,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-11T04:14:32
+25,Antrag prüfen,start,Manager_#0,2017-10-11T04:14:32
+25,Antrag prüfen,complete,Manager_#0,2017-10-11T05:14:32
+26,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T07:55:53
+26,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T08:22:47
+26,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-19T10:43:02
+26,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-20T03:56:47
+26,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-08T04:12:40
+26,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-08T04:27:54
+26,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-15T07:07:58
+26,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-15T09:07:58
+26,Antrag prüfen,start,Manager_#0,2017-11-15T09:07:58
+26,Antrag prüfen,complete,Manager_#0,2017-11-16T02:07:58
+27,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T08:22:47
+27,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T09:15:15
+27,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-20T03:56:47
+27,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-20T03:59:35
+27,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-07T03:52:08
+27,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-07T05:52:08
+27,Antrag prüfen,start,Manager_#0,2017-11-07T05:52:08
+27,Antrag prüfen,complete,Manager_#0,2017-11-07T06:52:08
+27,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-15T09:56:37
+27,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-16T02:07:00
+27,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-23T04:44:16
+27,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-23T06:44:16
+27,Antrag prüfen,start,Manager_#0,2017-11-23T06:44:16
+27,Antrag prüfen,complete,Manager_#0,2017-11-23T07:44:16
+28,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T09:15:15
+28,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T09:25:31
+28,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-11T04:36:41
+28,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-11T06:36:41
+28,Antrag prüfen,start,Manager_#0,2017-10-11T06:36:41
+28,Antrag prüfen,complete,Manager_#0,2017-10-11T07:36:41
+28,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-27T08:11:22
+28,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-27T08:42:22
+28,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T08:51:26
+28,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T09:06:52
+28,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-20T04:42:48
+28,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-20T06:42:48
+28,Antrag prüfen,start,Manager_#0,2017-11-20T06:42:48
+28,Antrag prüfen,complete,Manager_#0,2017-11-20T07:42:48
+29,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T09:25:31
+29,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T10:01:52
+29,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-20T03:59:35
+29,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-20T04:02:30
+29,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-07T05:52:08
+29,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-07T07:52:08
+29,Antrag prüfen,start,Manager_#0,2017-11-07T07:52:08
+29,Antrag prüfen,complete,Manager_#0,2017-11-07T08:52:08
+30,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T10:01:52
+30,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T10:04:49
+30,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-11T07:02:24
+30,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-11T09:02:24
+30,Antrag prüfen,start,Manager_#0,2017-10-11T09:02:24
+30,Antrag prüfen,complete,Manager_#0,2017-10-11T10:02:24
+31,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T10:04:49
+31,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T10:17:54
+31,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-11T09:02:24
+31,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-12T03:02:24
+31,Antrag prüfen,start,Manager_#0,2017-10-12T03:02:24
+31,Antrag prüfen,complete,Manager_#0,2017-10-12T04:02:24
+31,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-01T05:42:22
+31,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-01T05:44:56
+31,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-10T09:07:09
+31,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-13T03:07:09
+31,Antrag prüfen,start,Manager_#0,2017-11-13T03:07:09
+31,Antrag prüfen,complete,Manager_#0,2017-11-13T04:07:09
+32,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T10:17:54
+32,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T10:20:54
+32,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-12T03:02:24
+32,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-12T05:02:24
+32,Antrag prüfen,start,Manager_#0,2017-10-12T05:02:24
+32,Antrag prüfen,complete,Manager_#0,2017-10-12T06:02:24
+33,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T10:20:54
+33,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T10:33:45
+33,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-12T05:06:54
+33,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-12T07:06:54
+33,Antrag prüfen,start,Manager_#0,2017-10-12T07:06:54
+33,Antrag prüfen,complete,Manager_#0,2017-10-12T08:06:54
+34,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T10:33:45
+34,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T10:34:54
+34,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-12T07:06:54
+34,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-12T09:06:54
+34,Antrag prüfen,start,Manager_#0,2017-10-12T09:06:54
+34,Antrag prüfen,complete,Manager_#0,2017-10-12T10:06:54
+35,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T10:34:54
+35,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T10:39:36
+35,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-12T09:06:54
+35,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-13T03:06:54
+35,Antrag prüfen,start,Manager_#0,2017-10-13T03:06:54
+35,Antrag prüfen,complete,Manager_#0,2017-10-13T04:06:54
+36,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T10:39:36
+36,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-02T10:55:45
+36,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-13T03:06:54
+36,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-13T05:06:54
+36,Antrag prüfen,start,Manager_#0,2017-10-13T05:06:54
+36,Antrag prüfen,complete,Manager_#0,2017-10-13T06:06:54
+36,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-01T05:44:56
+36,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-01T05:53:32
+36,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-13T03:07:09
+36,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-13T05:07:09
+36,Antrag prüfen,start,Manager_#0,2017-11-13T05:07:09
+36,Antrag prüfen,complete,Manager_#0,2017-11-13T06:07:09
+37,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-02T10:55:45
+37,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T03:10:50
+37,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-16T04:12:32
+37,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-16T06:12:32
+37,Antrag prüfen,start,Manager_#0,2017-10-16T06:12:32
+37,Antrag prüfen,complete,Manager_#0,2017-10-16T07:12:32
+38,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T03:10:50
+38,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T03:25:27
+38,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-16T06:12:32
+38,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-16T08:12:32
+38,Antrag prüfen,start,Manager_#0,2017-10-16T08:12:32
+38,Antrag prüfen,complete,Manager_#0,2017-10-16T09:12:32
+38,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-06T05:23:24
+38,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-06T05:25:59
+38,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-14T02:38:53
+38,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-14T04:38:53
+38,Antrag prüfen,start,Manager_#0,2017-11-14T04:38:53
+38,Antrag prüfen,complete,Manager_#0,2017-11-14T05:38:53
+39,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T03:25:27
+39,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T03:28:43
+39,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-16T08:12:32
+39,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-16T10:12:32
+39,Antrag prüfen,start,Manager_#0,2017-10-16T10:12:32
+39,Antrag prüfen,complete,Manager_#0,2017-10-17T03:12:32
+40,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T03:28:43
+40,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T04:15:19
+40,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-20T08:02:30
+40,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-20T08:20:03
+40,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-07T07:52:08
+40,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-07T09:52:08
+40,Antrag prüfen,start,Manager_#0,2017-11-07T09:52:08
+40,Antrag prüfen,complete,Manager_#0,2017-11-08T02:52:08
+40,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-16T04:07:00
+40,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-16T04:41:01
+40,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-24T02:03:16
+40,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-24T02:14:30
+40,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-28T07:36:47
+40,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-28T09:36:47
+40,Antrag prüfen,start,Manager_#0,2017-11-28T09:36:47
+40,Antrag prüfen,complete,Manager_#0,2017-11-29T02:36:47
+40,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-04T07:27:29
+40,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-04T08:06:54
+40,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-06T08:30:49
+40,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-06T08:35:01
+40,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-06T08:53:39
+40,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-07T02:53:39
+40,Antrag prüfen,start,Manager_#0,2017-12-07T02:53:39
+40,Antrag prüfen,complete,Manager_#0,2017-12-07T03:53:39
+40,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-11T02:06:45
+40,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-11T02:27:49
+40,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-11T04:46:35
+40,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-11T06:46:35
+40,Antrag prüfen,start,Manager_#0,2017-12-11T06:46:35
+40,Antrag prüfen,complete,Manager_#0,2017-12-11T07:46:35
+41,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T04:15:19
+41,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T04:33:30
+41,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-17T03:25:10
+41,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-17T05:25:10
+41,Antrag prüfen,start,Manager_#0,2017-10-17T05:25:10
+41,Antrag prüfen,complete,Manager_#0,2017-10-17T06:25:10
+41,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-06T09:32:48
+41,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-06T09:56:59
+41,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-15T09:21:29
+41,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-15T09:27:56
+41,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-22T06:44:16
+41,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-22T08:44:16
+41,Antrag prüfen,start,Manager_#0,2017-11-22T08:44:16
+41,Antrag prüfen,complete,Manager_#0,2017-11-22T09:44:16
+41,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-29T07:45:06
+41,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-29T07:54:13
+41,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-01T03:22:01
+41,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-01T05:22:01
+41,Antrag prüfen,start,Manager_#0,2017-12-01T05:22:01
+41,Antrag prüfen,complete,Manager_#0,2017-12-01T06:22:01
+42,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T04:33:30
+42,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T04:42:09
+42,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-17T05:25:10
+42,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-17T07:25:10
+42,Antrag prüfen,start,Manager_#0,2017-10-17T07:25:10
+42,Antrag prüfen,complete,Manager_#0,2017-10-17T08:25:10
+42,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-06T09:56:59
+42,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-07T03:52:08
+42,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-15T09:47:28
+42,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-15T09:56:37
+42,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-23T02:44:16
+42,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-23T04:44:16
+42,Antrag prüfen,start,Manager_#0,2017-11-23T04:44:16
+42,Antrag prüfen,complete,Manager_#0,2017-11-23T05:44:16
+43,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T04:42:09
+43,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T04:44:26
+43,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-17T07:25:10
+43,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-17T09:25:10
+43,Antrag prüfen,start,Manager_#0,2017-10-17T09:25:10
+43,Antrag prüfen,complete,Manager_#0,2017-10-17T10:25:10
+44,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T04:44:26
+44,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T04:46:59
+44,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-17T09:25:10
+44,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-18T03:25:10
+44,Antrag prüfen,start,Manager_#0,2017-10-18T03:25:10
+44,Antrag prüfen,complete,Manager_#0,2017-10-18T04:25:10
+45,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T04:46:59
+45,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T05:01:33
+45,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-18T03:25:10
+45,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-18T05:25:10
+45,Antrag prüfen,start,Manager_#0,2017-10-18T05:25:10
+45,Antrag prüfen,complete,Manager_#0,2017-10-18T06:25:10
+46,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T05:01:33
+46,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T05:15:47
+46,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-18T05:25:10
+46,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-18T07:25:10
+46,Antrag prüfen,start,Manager_#0,2017-10-18T07:25:10
+46,Antrag prüfen,complete,Manager_#0,2017-10-18T08:25:10
+46,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-08T03:52:08
+46,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-08T03:56:48
+46,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-14T07:07:58
+46,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-14T09:07:58
+46,Antrag prüfen,start,Manager_#0,2017-11-14T09:07:58
+46,Antrag prüfen,complete,Manager_#0,2017-11-15T02:07:58
+47,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T05:15:47
+47,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T05:17:39
+47,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-18T07:25:10
+47,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-18T09:25:10
+47,Antrag prüfen,start,Manager_#0,2017-10-18T09:25:10
+47,Antrag prüfen,complete,Manager_#0,2017-10-18T10:25:10
+48,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T05:17:39
+48,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T06:11:11
+48,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-20T08:20:03
+48,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-20T08:22:48
+48,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-07T09:52:08
+48,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-08T03:52:08
+48,Antrag prüfen,start,Manager_#0,2017-11-08T03:52:08
+48,Antrag prüfen,complete,Manager_#0,2017-11-08T04:52:08
+48,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-16T04:41:01
+48,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-16T04:42:48
+48,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-23T06:52:04
+48,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-23T08:52:04
+48,Antrag prüfen,start,Manager_#0,2017-11-23T08:52:04
+48,Antrag prüfen,complete,Manager_#0,2017-11-23T09:52:04
+49,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T06:11:11
+49,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T06:28:50
+49,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-18T09:25:10
+49,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-19T03:25:10
+49,Antrag prüfen,start,Manager_#0,2017-10-19T03:25:10
+49,Antrag prüfen,complete,Manager_#0,2017-10-19T04:25:10
+50,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-03T10:28:50
+50,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-03T10:44:41
+50,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-19T03:25:10
+50,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-19T05:25:10
+50,Antrag prüfen,start,Manager_#0,2017-10-19T05:25:10
+50,Antrag prüfen,complete,Manager_#0,2017-10-19T06:25:10
+51,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-04T04:44:41
+51,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-04T04:47:58
+51,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-19T05:29:45
+51,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-19T07:29:45
+51,Antrag prüfen,start,Manager_#0,2017-10-19T07:29:45
+51,Antrag prüfen,complete,Manager_#0,2017-10-19T08:29:45
+51,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-08T03:56:48
+51,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-08T04:08:43
+51,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-14T09:07:58
+51,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-15T03:07:58
+51,Antrag prüfen,start,Manager_#0,2017-11-15T03:07:58
+51,Antrag prüfen,complete,Manager_#0,2017-11-15T04:07:58
+52,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-04T04:47:58
+52,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-04T05:11:25
+52,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-19T07:29:45
+52,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-19T09:29:45
+52,Antrag prüfen,start,Manager_#0,2017-10-19T09:29:45
+52,Antrag prüfen,complete,Manager_#0,2017-10-19T10:29:45
+52,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-08T04:08:43
+52,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-08T04:11:18
+52,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-15T03:07:58
+52,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-15T05:07:58
+52,Antrag prüfen,start,Manager_#0,2017-11-15T05:07:58
+52,Antrag prüfen,complete,Manager_#0,2017-11-15T06:07:58
+52,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-23T09:36:41
+52,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-23T09:38:34
+52,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-28T05:36:47
+52,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-28T07:36:47
+52,Antrag prüfen,start,Manager_#0,2017-11-28T07:36:47
+52,Antrag prüfen,complete,Manager_#0,2017-11-28T08:36:47
+52,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-04T05:22:01
+52,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-04T05:27:29
+52,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-04T09:14:46
+52,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-05T03:14:46
+52,Antrag prüfen,start,Manager_#0,2017-12-05T03:14:46
+52,Antrag prüfen,complete,Manager_#0,2017-12-05T04:14:46
+53,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-05T03:11:25
+53,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-05T03:15:56
+53,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-20T04:02:30
+53,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-20T06:02:30
+53,Antrag prüfen,start,Manager_#0,2017-10-20T06:02:30
+53,Antrag prüfen,complete,Manager_#0,2017-10-20T07:02:30
+54,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-05T03:15:56
+54,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-05T03:23:16
+54,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-20T06:02:30
+54,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-20T08:02:30
+54,Antrag prüfen,start,Manager_#0,2017-10-20T08:02:30
+54,Antrag prüfen,complete,Manager_#0,2017-10-20T09:02:30
+55,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-05T07:23:16
+55,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-05T07:23:19
+55,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-20T08:22:48
+55,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-20T10:22:48
+55,Antrag prüfen,start,Manager_#0,2017-10-20T10:22:48
+55,Antrag prüfen,complete,Manager_#0,2017-10-23T03:22:48
+55,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T02:27:54
+55,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T02:49:31
+55,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-16T02:07:00
+55,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-16T04:07:00
+55,Antrag prüfen,start,Manager_#0,2017-11-16T04:07:00
+55,Antrag prüfen,complete,Manager_#0,2017-11-16T05:07:00
+55,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-24T02:14:30
+55,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-24T02:47:25
+55,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-29T08:30:34
+55,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-29T08:41:04
+55,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-04T03:22:01
+55,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-04T05:22:01
+55,Antrag prüfen,start,Manager_#0,2017-12-04T05:22:01
+55,Antrag prüfen,complete,Manager_#0,2017-12-04T06:22:01
+55,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-06T06:22:42
+55,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-06T06:30:49
+55,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-06T06:30:49
+55,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-06T08:30:49
+55,Antrag prüfen,start,Manager_#0,2017-12-06T08:30:49
+55,Antrag prüfen,complete,Manager_#0,2017-12-06T09:30:49
+56,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-05T09:23:19
+56,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-05T09:36:51
+56,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-20T10:22:48
+56,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-23T04:22:48
+56,Antrag prüfen,start,Manager_#0,2017-10-23T04:22:48
+56,Antrag prüfen,complete,Manager_#0,2017-10-23T05:22:48
+57,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-06T07:36:51
+57,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-06T07:41:19
+57,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-23T04:22:48
+57,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-23T06:22:48
+57,Antrag prüfen,start,Manager_#0,2017-10-23T06:22:48
+57,Antrag prüfen,complete,Manager_#0,2017-10-23T07:22:48
+58,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-10T03:41:19
+58,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-10T04:14:32
+58,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-24T09:17:35
+58,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-24T09:18:05
+58,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-09T06:27:54
+58,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-09T08:27:54
+58,Antrag prüfen,start,Manager_#0,2017-11-09T08:27:54
+58,Antrag prüfen,complete,Manager_#0,2017-11-09T09:27:54
+59,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-11T04:14:32
+59,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-11T04:17:24
+59,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-23T06:56:22
+59,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-23T08:56:22
+59,Antrag prüfen,start,Manager_#0,2017-10-23T08:56:22
+59,Antrag prüfen,complete,Manager_#0,2017-10-23T09:56:22
+60,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-11T04:17:24
+60,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-11T04:34:24
+60,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-23T08:56:22
+60,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-23T10:56:22
+60,Antrag prüfen,start,Manager_#0,2017-10-23T10:56:22
+60,Antrag prüfen,complete,Manager_#0,2017-10-24T03:56:22
+60,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T06:49:31
+60,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T07:15:54
+60,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-21T02:03:19
+60,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-21T02:09:21
+60,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-24T09:08:25
+60,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-27T03:08:25
+60,Antrag prüfen,start,Manager_#0,2017-11-27T03:08:25
+60,Antrag prüfen,complete,Manager_#0,2017-11-27T04:08:25
+61,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-11T04:34:24
+61,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-11T04:36:41
+61,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-23T10:56:22
+61,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-24T04:56:22
+61,Antrag prüfen,start,Manager_#0,2017-10-24T04:56:22
+61,Antrag prüfen,complete,Manager_#0,2017-10-24T05:56:22
+62,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-11T06:36:41
+62,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-11T06:45:24
+62,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-24T05:17:35
+62,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-24T07:17:35
+62,Antrag prüfen,start,Manager_#0,2017-10-24T07:17:35
+62,Antrag prüfen,complete,Manager_#0,2017-10-24T08:17:35
+62,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T07:15:54
+62,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T07:25:18
+62,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-16T04:42:48
+62,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-16T06:42:48
+62,Antrag prüfen,start,Manager_#0,2017-11-16T06:42:48
+62,Antrag prüfen,complete,Manager_#0,2017-11-16T07:42:48
+62,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-24T02:47:25
+62,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-24T02:50:55
+62,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-28T09:36:47
+62,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-29T03:36:47
+62,Antrag prüfen,start,Manager_#0,2017-11-29T03:36:47
+62,Antrag prüfen,complete,Manager_#0,2017-11-29T04:36:47
+63,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-11T06:45:24
+63,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-11T07:02:24
+63,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-24T07:17:35
+63,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-24T09:17:35
+63,Antrag prüfen,start,Manager_#0,2017-10-24T09:17:35
+63,Antrag prüfen,complete,Manager_#0,2017-10-24T10:17:35
+63,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T07:25:18
+63,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T07:43:55
+63,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-16T06:42:48
+63,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-16T08:42:48
+63,Antrag prüfen,start,Manager_#0,2017-11-16T08:42:48
+63,Antrag prüfen,complete,Manager_#0,2017-11-16T09:42:48
+63,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-24T02:50:55
+63,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-24T03:07:03
+63,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-29T03:36:47
+63,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-29T05:36:47
+63,Antrag prüfen,start,Manager_#0,2017-11-29T05:36:47
+63,Antrag prüfen,complete,Manager_#0,2017-11-29T06:36:47
+64,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-12T05:02:24
+64,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-12T05:06:54
+64,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-24T09:23:52
+64,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-25T03:23:52
+64,Antrag prüfen,start,Manager_#0,2017-10-25T03:23:52
+64,Antrag prüfen,complete,Manager_#0,2017-10-25T04:23:52
+64,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T07:46:38
+64,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T07:58:18
+64,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-17T02:42:48
+64,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-17T04:42:48
+64,Antrag prüfen,start,Manager_#0,2017-11-17T04:42:48
+64,Antrag prüfen,complete,Manager_#0,2017-11-17T05:42:48
+65,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T05:06:54
+65,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T05:26:38
+65,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-25T04:11:22
+65,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-25T06:11:22
+65,Antrag prüfen,start,Manager_#0,2017-10-25T06:11:22
+65,Antrag prüfen,complete,Manager_#0,2017-10-25T07:11:22
+66,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T05:26:38
+66,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T05:36:57
+66,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-25T06:11:22
+66,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-25T08:11:22
+66,Antrag prüfen,start,Manager_#0,2017-10-25T08:11:22
+66,Antrag prüfen,complete,Manager_#0,2017-10-25T09:11:22
+66,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T07:58:18
+66,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T08:01:24
+66,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-17T04:42:48
+66,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-17T06:42:48
+66,Antrag prüfen,start,Manager_#0,2017-11-17T06:42:48
+66,Antrag prüfen,complete,Manager_#0,2017-11-17T07:42:48
+67,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T05:36:57
+67,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T05:39:48
+67,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-25T08:11:22
+67,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-25T10:11:22
+67,Antrag prüfen,start,Manager_#0,2017-10-25T10:11:22
+67,Antrag prüfen,complete,Manager_#0,2017-10-26T03:11:22
+68,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T05:39:48
+68,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T05:54:30
+68,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-25T10:11:22
+68,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-26T04:11:22
+68,Antrag prüfen,start,Manager_#0,2017-10-26T04:11:22
+68,Antrag prüfen,complete,Manager_#0,2017-10-26T05:11:22
+68,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T08:01:24
+68,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T08:23:12
+68,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-17T06:42:48
+68,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-17T08:42:48
+68,Antrag prüfen,start,Manager_#0,2017-11-17T08:42:48
+68,Antrag prüfen,complete,Manager_#0,2017-11-17T09:42:48
+68,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-24T03:07:03
+68,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-24T03:08:25
+68,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-29T05:36:47
+68,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-29T07:36:47
+68,Antrag prüfen,start,Manager_#0,2017-11-29T07:36:47
+68,Antrag prüfen,complete,Manager_#0,2017-11-29T08:36:47
+69,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T05:54:30
+69,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T06:15:23
+69,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-26T04:11:22
+69,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-26T06:11:22
+69,Antrag prüfen,start,Manager_#0,2017-10-26T06:11:22
+69,Antrag prüfen,complete,Manager_#0,2017-10-26T07:11:22
+70,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T06:15:23
+70,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T06:29:56
+70,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-26T06:11:22
+70,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-26T08:11:22
+70,Antrag prüfen,start,Manager_#0,2017-10-26T08:11:22
+70,Antrag prüfen,complete,Manager_#0,2017-10-26T09:11:22
+70,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T08:23:12
+70,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T08:41:47
+70,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-17T08:42:48
+70,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-20T02:42:48
+70,Antrag prüfen,start,Manager_#0,2017-11-20T02:42:48
+70,Antrag prüfen,complete,Manager_#0,2017-11-20T03:42:48
+71,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T06:29:56
+71,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T06:43:37
+71,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-26T08:11:22
+71,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-26T10:11:22
+71,Antrag prüfen,start,Manager_#0,2017-10-26T10:11:22
+71,Antrag prüfen,complete,Manager_#0,2017-10-27T03:11:22
+72,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T06:43:37
+72,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T06:53:14
+72,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-26T10:11:22
+72,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-27T04:11:22
+72,Antrag prüfen,start,Manager_#0,2017-10-27T04:11:22
+72,Antrag prüfen,complete,Manager_#0,2017-10-27T05:11:22
+73,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T06:53:14
+73,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T06:59:25
+73,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-27T04:11:22
+73,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-27T06:11:22
+73,Antrag prüfen,start,Manager_#0,2017-10-27T06:11:22
+73,Antrag prüfen,complete,Manager_#0,2017-10-27T07:11:22
+73,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T08:41:47
+73,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T08:51:26
+73,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-20T02:42:48
+73,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-20T04:42:48
+73,Antrag prüfen,start,Manager_#0,2017-11-20T04:42:48
+73,Antrag prüfen,complete,Manager_#0,2017-11-20T05:42:48
+74,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T06:59:25
+74,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T07:01:38
+74,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-27T06:11:22
+74,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-27T08:11:22
+74,Antrag prüfen,start,Manager_#0,2017-10-27T08:11:22
+74,Antrag prüfen,complete,Manager_#0,2017-10-27T09:11:22
+75,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T07:01:38
+75,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T07:42:38
+75,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-01T05:53:32
+75,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-01T07:04:25
+75,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-13T07:34:26
+75,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-13T07:47:52
+75,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-21T06:22:25
+75,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-21T08:22:25
+75,Antrag prüfen,start,Manager_#0,2017-11-21T08:22:25
+75,Antrag prüfen,complete,Manager_#0,2017-11-21T09:22:25
+76,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T07:42:38
+76,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T07:59:14
+76,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-27T08:42:22
+76,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-27T10:42:22
+76,Antrag prüfen,start,Manager_#0,2017-10-27T10:42:22
+76,Antrag prüfen,complete,Manager_#0,2017-10-30T02:42:22
+77,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T07:59:14
+77,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T08:10:46
+77,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-27T10:42:22
+77,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-30T03:42:22
+77,Antrag prüfen,start,Manager_#0,2017-10-30T03:42:22
+77,Antrag prüfen,complete,Manager_#0,2017-10-30T04:42:22
+77,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-10T09:06:52
+77,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-10T09:07:09
+77,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-20T06:42:48
+77,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-20T08:42:48
+77,Antrag prüfen,start,Manager_#0,2017-11-20T08:42:48
+77,Antrag prüfen,complete,Manager_#0,2017-11-20T09:42:48
+77,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-27T09:08:25
+77,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-27T09:21:18
+77,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-29T08:41:04
+77,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-30T02:41:04
+77,Antrag prüfen,start,Manager_#0,2017-11-30T02:41:04
+77,Antrag prüfen,complete,Manager_#0,2017-11-30T03:41:04
+78,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T08:10:46
+78,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T08:14:48
+78,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-30T03:42:22
+78,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-30T05:42:22
+78,Antrag prüfen,start,Manager_#0,2017-10-30T05:42:22
+78,Antrag prüfen,complete,Manager_#0,2017-10-30T06:42:22
+79,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T08:14:48
+79,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T08:25:27
+79,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-30T05:42:22
+79,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-30T07:42:22
+79,Antrag prüfen,start,Manager_#0,2017-10-30T07:42:22
+79,Antrag prüfen,complete,Manager_#0,2017-10-30T08:42:22
+80,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T08:25:27
+80,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T08:37:09
+80,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-30T07:42:22
+80,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-30T09:42:22
+80,Antrag prüfen,start,Manager_#0,2017-10-30T09:42:22
+80,Antrag prüfen,complete,Manager_#0,2017-10-31T02:42:22
+81,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T08:37:09
+81,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T08:56:01
+81,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-30T09:42:22
+81,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-31T03:42:22
+81,Antrag prüfen,start,Manager_#0,2017-10-31T03:42:22
+81,Antrag prüfen,complete,Manager_#0,2017-10-31T04:42:22
+82,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T08:56:01
+82,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T10:18:52
+82,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-01T07:04:25
+82,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-01T07:18:50
+82,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-13T05:07:09
+82,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-13T07:07:09
+82,Antrag prüfen,start,Manager_#0,2017-11-13T07:07:09
+82,Antrag prüfen,complete,Manager_#0,2017-11-13T08:07:09
+82,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-22T04:22:25
+82,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-22T04:26:10
+82,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-27T05:08:25
+82,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-27T07:08:25
+82,Antrag prüfen,start,Manager_#0,2017-11-27T07:08:25
+82,Antrag prüfen,complete,Manager_#0,2017-11-27T08:08:25
+83,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T10:18:52
+83,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T10:26:25
+83,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-31T03:42:22
+83,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-31T05:42:22
+83,Antrag prüfen,start,Manager_#0,2017-10-31T05:42:22
+83,Antrag prüfen,complete,Manager_#0,2017-10-31T06:42:22
+84,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T10:26:25
+84,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T10:32:58
+84,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-31T05:42:22
+84,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-31T07:42:22
+84,Antrag prüfen,start,Manager_#0,2017-10-31T07:42:22
+84,Antrag prüfen,complete,Manager_#0,2017-10-31T08:42:22
+84,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-13T07:07:09
+84,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-13T07:10:54
+84,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-21T02:22:25
+84,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-21T04:22:25
+84,Antrag prüfen,start,Manager_#0,2017-11-21T04:22:25
+84,Antrag prüfen,complete,Manager_#0,2017-11-21T05:22:25
+84,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-27T09:24:34
+84,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-27T09:26:03
+84,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-30T04:41:04
+84,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-30T06:41:04
+84,Antrag prüfen,start,Manager_#0,2017-11-30T06:41:04
+84,Antrag prüfen,complete,Manager_#0,2017-11-30T07:41:04
+85,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T10:32:58
+85,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T10:32:58
+85,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-31T07:42:22
+85,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-10-31T09:42:22
+85,Antrag prüfen,start,Manager_#0,2017-10-31T09:42:22
+85,Antrag prüfen,complete,Manager_#0,2017-11-01T02:42:22
+85,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-13T07:10:54
+85,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-13T07:34:26
+85,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-21T04:22:25
+85,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-21T06:22:25
+85,Antrag prüfen,start,Manager_#0,2017-11-21T06:22:25
+85,Antrag prüfen,complete,Manager_#0,2017-11-21T07:22:25
+85,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-28T03:26:03
+85,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-28T03:36:47
+85,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-30T06:41:04
+85,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-30T08:41:04
+85,Antrag prüfen,start,Manager_#0,2017-11-30T08:41:04
+85,Antrag prüfen,complete,Manager_#0,2017-11-30T09:41:04
+86,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T10:32:58
+86,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T10:50:19
+86,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-10-31T09:42:22
+86,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-01T03:42:22
+86,Antrag prüfen,start,Manager_#0,2017-11-01T03:42:22
+86,Antrag prüfen,complete,Manager_#0,2017-11-01T04:42:22
+87,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T10:50:19
+87,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-13T10:57:22
+87,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-01T03:42:22
+87,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-01T05:42:22
+87,Antrag prüfen,start,Manager_#0,2017-11-01T05:42:22
+87,Antrag prüfen,complete,Manager_#0,2017-11-01T06:42:22
+88,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-13T10:57:22
+88,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T03:06:35
+88,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-01T07:18:50
+88,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-01T09:18:50
+88,Antrag prüfen,start,Manager_#0,2017-11-01T09:18:50
+88,Antrag prüfen,complete,Manager_#0,2017-11-02T02:18:50
+89,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T03:06:35
+89,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T03:09:45
+89,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-01T09:18:50
+89,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-02T03:18:50
+89,Antrag prüfen,start,Manager_#0,2017-11-02T03:18:50
+89,Antrag prüfen,complete,Manager_#0,2017-11-02T04:18:50
+89,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-13T07:47:52
+89,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-13T08:20:00
+89,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-22T04:26:10
+89,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-22T04:44:16
+89,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-27T07:08:25
+89,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-27T09:08:25
+89,Antrag prüfen,start,Manager_#0,2017-11-27T09:08:25
+89,Antrag prüfen,complete,Manager_#0,2017-11-28T02:08:25
+90,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T03:09:45
+90,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T03:17:16
+90,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-02T03:18:50
+90,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-02T05:18:50
+90,Antrag prüfen,start,Manager_#0,2017-11-02T05:18:50
+90,Antrag prüfen,complete,Manager_#0,2017-11-02T06:18:50
+91,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T03:17:16
+91,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T03:26:39
+91,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-02T05:18:50
+91,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-02T07:18:50
+91,Antrag prüfen,start,Manager_#0,2017-11-02T07:18:50
+91,Antrag prüfen,complete,Manager_#0,2017-11-02T08:18:50
+92,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T03:26:39
+92,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T03:27:09
+92,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-02T07:18:50
+92,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-02T09:18:50
+92,Antrag prüfen,start,Manager_#0,2017-11-02T09:18:50
+92,Antrag prüfen,complete,Manager_#0,2017-11-03T02:18:50
+93,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T03:27:09
+93,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T03:31:06
+93,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-02T09:18:50
+93,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-03T03:18:50
+93,Antrag prüfen,start,Manager_#0,2017-11-03T03:18:50
+93,Antrag prüfen,complete,Manager_#0,2017-11-03T04:18:50
+94,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T03:31:06
+94,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T03:59:45
+94,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-06T05:18:50
+94,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-06T05:23:24
+94,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-13T08:38:53
+94,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-14T02:38:53
+94,Antrag prüfen,start,Manager_#0,2017-11-14T02:38:53
+94,Antrag prüfen,complete,Manager_#0,2017-11-14T03:38:53
+94,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-23T06:44:16
+94,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-23T06:52:04
+94,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-27T09:26:03
+94,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-28T03:26:03
+94,Antrag prüfen,start,Manager_#0,2017-11-28T03:26:03
+94,Antrag prüfen,complete,Manager_#0,2017-11-28T04:26:03
+95,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T03:59:45
+95,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T04:08:30
+95,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-03T03:18:50
+95,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-03T05:18:50
+95,Antrag prüfen,start,Manager_#0,2017-11-03T05:18:50
+95,Antrag prüfen,complete,Manager_#0,2017-11-03T06:18:50
+95,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-13T08:20:00
+95,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-13T08:33:41
+95,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-21T08:22:25
+95,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-22T02:22:25
+95,Antrag prüfen,start,Manager_#0,2017-11-22T02:22:25
+95,Antrag prüfen,complete,Manager_#0,2017-11-22T03:22:25
+96,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T04:08:30
+96,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T04:10:58
+96,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-03T05:18:50
+96,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-03T07:18:50
+96,Antrag prüfen,start,Manager_#0,2017-11-03T07:18:50
+96,Antrag prüfen,complete,Manager_#0,2017-11-03T08:18:50
+96,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-13T08:33:41
+96,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-13T08:38:53
+96,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-22T02:22:25
+96,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-22T04:22:25
+96,Antrag prüfen,start,Manager_#0,2017-11-22T04:22:25
+96,Antrag prüfen,complete,Manager_#0,2017-11-22T05:22:25
+96,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-29T07:36:47
+96,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-29T07:45:06
+96,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-30T09:22:01
+96,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-01T03:22:01
+96,Antrag prüfen,start,Manager_#0,2017-12-01T03:22:01
+96,Antrag prüfen,complete,Manager_#0,2017-12-01T04:22:01
+96,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-04T08:45:52
+96,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-04T09:14:46
+96,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-07T05:26:43
+96,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-07T05:27:27
+96,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-07T05:27:27
+96,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-07T07:27:27
+96,Antrag prüfen,start,Manager_#0,2017-12-07T07:27:27
+96,Antrag prüfen,complete,Manager_#0,2017-12-07T08:27:27
+96,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-11T02:27:49
+96,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-11T02:46:35
+96,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-11T06:46:35
+96,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-11T08:46:35
+96,Antrag prüfen,start,Manager_#0,2017-12-11T08:46:35
+96,Antrag prüfen,complete,Manager_#0,2017-12-11T09:46:35
+96,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-13T09:47:29
+96,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-13T09:52:20
+96,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-13T09:52:20
+96,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-14T03:52:20
+96,Antrag prüfen,start,Manager_#0,2017-12-14T03:52:20
+96,Antrag prüfen,complete,Manager_#0,2017-12-14T04:52:20
+96,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-12-18T02:00:00
+96,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-12-18T02:12:08
+96,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-18T02:12:08
+96,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-18T04:12:08
+96,Antrag prüfen,start,Manager_#0,2017-12-18T04:12:08
+96,Antrag prüfen,complete,Manager_#0,2017-12-18T05:12:08
+97,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T04:10:58
+97,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T04:12:32
+97,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-03T07:18:50
+97,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-03T09:18:50
+97,Antrag prüfen,start,Manager_#0,2017-11-03T09:18:50
+97,Antrag prüfen,complete,Manager_#0,2017-11-06T02:18:50
+97,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-14T06:38:53
+97,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-14T07:07:58
+97,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-23T08:52:04
+97,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-23T09:34:15
+97,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-29T07:58:47
+97,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-29T08:22:09
+97,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-12-01T07:22:01
+97,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-12-01T09:22:01
+97,Antrag prüfen,start,Manager_#0,2017-12-01T09:22:01
+97,Antrag prüfen,complete,Manager_#0,2017-12-04T02:22:01
+98,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T10:12:32
+98,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-16T10:59:36
+98,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-06T05:25:59
+98,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-06T05:32:48
+98,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-14T04:38:53
+98,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-14T06:38:53
+98,Antrag prüfen,start,Manager_#0,2017-11-14T06:38:53
+98,Antrag prüfen,complete,Manager_#0,2017-11-14T07:38:53
+98,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-23T09:34:15
+98,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-23T09:36:41
+98,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-28T03:36:47
+98,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-28T05:36:47
+98,Antrag prüfen,start,Manager_#0,2017-11-28T05:36:47
+98,Antrag prüfen,complete,Manager_#0,2017-11-28T06:36:47
+99,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-16T10:59:36
+99,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-17T03:20:22
+99,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-03T09:18:50
+99,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-06T03:18:50
+99,Antrag prüfen,start,Manager_#0,2017-11-06T03:18:50
+99,Antrag prüfen,complete,Manager_#0,2017-11-06T04:18:50
+100,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-10-17T03:20:22
+100,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-10-17T03:25:10
+100,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-06T03:18:50
+100,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-06T05:18:50
+100,Antrag prüfen,start,Manager_#0,2017-11-06T05:18:50
+100,Antrag prüfen,complete,Manager_#0,2017-11-06T06:18:50
+100,Auf Vollständigkeit prüfen,start,Sachbearbeiter_#0,2017-11-15T09:07:58
+100,Auf Vollständigkeit prüfen,complete,Sachbearbeiter_#0,2017-11-15T09:21:29
+100,Weitere Informationen einholen,start,Sachbearbeiter_#0,2017-11-22T04:44:16
+100,Weitere Informationen einholen,complete,Sachbearbeiter_#0,2017-11-22T06:44:16
+100,Antrag prüfen,start,Manager_#0,2017-11-22T06:44:16
+100,Antrag prüfen,complete,Manager_#0,2017-11-22T07:44:16
